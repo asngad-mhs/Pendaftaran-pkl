@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Pendaftaran PKL & Verifikasi Berkas Terpadu",
+  "description": "Portal pendaftaran Praktik Kerja Lapangan (PKL) terintegrasi Supabase dengan dashboard real-time verifikasi dokumen otomatis, enkripsi data sensitif, notifikasi email, dan audit aktivitas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
